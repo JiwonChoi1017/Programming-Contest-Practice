@@ -14,4 +14,3 @@ for i in range(10):
     answer = max(new_time) if answer > max(new_time) else answer
 
 print(answer)
-c
